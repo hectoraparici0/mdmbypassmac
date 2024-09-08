@@ -10,7 +10,7 @@ CYAN='\033[1;36m'
 NC='\033[0m'
 
 # Display header
-echo -e "${CYAN}Bypass MDM By Assaf Dori (assafdori.com)${NC}"
+echo -e "${CYAN}Bypass MDM By Lucious Nickel ${NC}"
 echo ""
 
 # Prompt user for choice
