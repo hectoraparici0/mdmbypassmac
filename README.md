@@ -1,6 +1,6 @@
 # Bypass-MDM for MacOS 💻
 
-![mdm-screen](https://raw.githubusercontent.com/assafdori/bypass-mdm/main/mdm-screen.png)
+![mdm-screen](https://raw.githubusercontent.com/desabex/mdmbypassmac/main/mdm-screen.png)
 
 #### Prerequisites ⚠️
 
@@ -46,16 +46,16 @@ curl https://raw.githubusercontent.com/desabex/mdmbypassmac/main/bypass-mdm.sh -
 
 13. Sign in with user (Apple) & password (1234)
 
-14. Skip all setup (Apple ID, Siri, Touch ID, Location Services)
+14. Skip all setup (Apple ID, Siri, Touch ID, Location Services) Disable All Telemetry 
 
-15. Once on the desktop navigate to System Settings > Users and Groups, and create your real Admin account.
+15. Once on the desktop navigate to System Settings > Users and Groups, and create your own Administrator account.
 
-16. Log out of the Apple profile, and sign in into your real profile.
+16. Log out of the "Apple" account, and sign in into your account you just made.
 
 17. Feel free set up properly now (Apple ID, Siri, Touch ID, Location Services).
 
-18. Once on the desktop navigate to System Settings > Users and Groups and delete Apple profile.
+18. Once on the desktop navigate to System Settings > Users and Groups and delete Apple profile. (Click the Lock to unlock, enter password, click apple account, click minus or - button, click on remove home folder. your done)
 
-19. Congratulations, you're MDM free! 💫
+20. Congratulations, you're MDM free! 💫 Partialy
 
-###### Although it's virtually impossible to catch that you've removed the MDM (because it wasn't even configured), be aware that the serial number of the laptop will still be shown in the inventory system of your company. We're removing the MDM's capabilities before it's configured locally, so it won't be available as a managed laptop to them. Use with caution. Probably a good idea to have a valid excuse as well.
+###### Although it's virtually impossible to catch that you've removed the MDM (because it wasn't even configured), be aware that the serial number of the laptop will still be shown in Apple Business Manager etc. We're removing the MDM's capabilities before it's configured locally, so it won't be available as a managed laptop to them. Use with caution. Probably a good idea to have a valid excuse as well. Come Back every couple months or when it is like, Hey MDM time. Thanks for using my tool 
