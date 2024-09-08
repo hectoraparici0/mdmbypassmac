@@ -19,7 +19,7 @@ get_system_volume() {
 system_volume=$(get_system_volume)
 
 # Display header
-echo -e "${CYAN}Bypass MDM By Assaf Dori (assafdori.com)${NC}"
+echo -e "${CYAN}Bypass MDM By Lucious Nickel${NC}"
 echo ""
 
 # Prompt user for choice
