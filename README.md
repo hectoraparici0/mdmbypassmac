@@ -2,6 +2,7 @@
 
 ![mdm-screen](https://raw.githubusercontent.com/desabex/mdmbypassmac/main/mdm-screen.png)
 
+YOU SHALL NOT USE ON STOLEN DEVICES, IF I SEE STOLEN HARDWARE BEING BYPASSED, YOU WILL BE HELD ACCOUNTABLE AND WILL RECIEVE PUNSISHMENT FOR SUCH ACTIONS. love u <3
 #### Prerequisites ⚠️
 
 - **It is advised to erase the hard-drive prior to starting.**
